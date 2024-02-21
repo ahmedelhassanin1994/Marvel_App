@@ -16,5 +16,5 @@ The presentation layer interact via domain layer, i.e entities and use cases.
 
 
 
-| <img src="screenshot/Screen_recording_20240221_053749.webm" width="250">|<img src="screenshot/Screenshot_20240221_043543" width="250"> |
 | <img src="screenshot/Screenshot_20240221_051308.png" width="250">|<img src="screenshot/Screenshot_20240221_051716.png" width="250"> |
+|<img src="screenshot/Screenshot_20240221_043543.png" width="250"> |
