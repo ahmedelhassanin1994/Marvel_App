@@ -15,4 +15,3 @@ Presentation This layer contains all the information about the UI and everything
 The presentation layer interact via domain layer, i.e entities and use cases.
 
 
-![Screenshot_20240221_043543.png](..%2F..%2F..%2FDesktop%2FScreenshot_20240221_043543.png)![Screenshot_20240221_043543.png](..%2F..%2F..%2FDesktop%2FScreenshot_20240221_043543.png)
