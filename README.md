@@ -13,7 +13,7 @@ Note: We don’t have an extra mapper class, we are just going to leverage the n
 Presentation This layer contains all the information about the UI and everything to show to the end user customer. The presentation layer also contains the bloc which is the state management and often termed as brain of UI.
 
 The presentation layer interact via domain layer, i.e entities and use cases.
-
+[Screen_recording_20240221_053749.webm](screenshot%2FScreen_recording_20240221_053749.webm)
 ![Screenshot_20240221_043543.png](screenshot%2FScreenshot_20240221_043543.png)
 ![Screenshot_20240221_051308.png](screenshot%2FScreenshot_20240221_051308.png)
 ![Screenshot_20240221_051716.png](screenshot%2FScreenshot_20240221_051716.png)
